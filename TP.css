@@ -10,6 +10,7 @@
   font-weight: normal;
   font-style: normal
 }
+
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -14619,8 +14620,8 @@ img.fullimage {
 }
 
 .btn-simple {
-  background-color: #2ecc71;
-  border-color: #2ecc71;
+  background-color: #00aced;
+  border-color: #00aced;
 }
 
 .prevnextlinks a,
@@ -14629,22 +14630,22 @@ img.fullimage {
 .post .post-top-meta .author-description a,
 article.page a,
 .alertbar a {
-  color: #2ecc71;
+  color: #00aced;
 }
 
 .post .btn.follow,
 .alertbar input[type="submit"] {
-  border-color: #2ecc71;
+  border-color: #00aced;
 }
 
 blockquote {
-  border-color: #2ecc71;
+  border-color: #00aced;
 }
 
 .entry-content input[type=submit],
 .alertbar input[type="submit"] {
-  background-color: #2ecc71;
-  border-color: #2ecc71;
+  background-color: #00aced;
+  border-color: #00aced;
 }
 
 p.sharecolour {
@@ -14662,16 +14663,16 @@ p.sharecolour {
 }
 
 #comments a {
-  color: #2ecc71;
+  color: #00aced;
 }
 
 .comment-form input.submit {
-  background-color: #2ecc71;
-  border-color: #2ecc71;
+  background-color: #00aced;
+  border-color: #00aced;
 }
 
 footer.footer a {
-  color: #2ecc71;
+  color: #00aced;
 }
 
 .carousel-excerpt .fontlight,
@@ -14747,16 +14748,16 @@ h6 {
 }
 
 .navbar-light .navbar-brand:hover {
-  color: #2ecc71;
+  color: #00aced;
 }
 
 .customarea .btn.follow {
-  border-color: #2ecc71;
-  color: #2ecc71;
+  border-color: #00aced;
+  color: #00aced;
 }
 
 .search-form .search-submit {
-  background-color: #2ecc71;
+  background-color: #00aced;
 }
 
 .search-form .search-field {
@@ -14831,7 +14832,7 @@ img {
 }
 
 .breadcrumbs a:hover {
-  color: #2ecc71;
+  color: #00aced;
 }
 
 .mainheading {
@@ -15493,7 +15494,7 @@ i.social {
   z-index: 100;
   display: none;
   text-decoration: none;
-  background-color: #2ecc71;
+  background-color: #00aced;
 }
 
 .back-to-top i {
@@ -16430,8 +16431,8 @@ img.fullimage {
 }
 
 .btn-simple {
-  background-color: #2ecc71;
-  border-color: #2ecc71;
+  background-color: #00aced;
+  border-color: #00aced;
 }
 
 .prevnextlinks a,
@@ -16440,22 +16441,22 @@ img.fullimage {
 .post .post-top-meta .author-description a,
 article.page a,
 .alertbar a {
-  color: #2ecc71;
+  color: #00aced;
 }
 
 .post .btn.follow,
 .alertbar input[type="submit"] {
-  border-color: #2ecc71;
+  border-color: #00aced;
 }
 
 blockquote {
-  border-color: #2ecc71;
+  border-color: #00aced;
 }
 
 .entry-content input[type=submit],
 .alertbar input[type="submit"] {
-  background-color: #2ecc71;
-  border-color: #2ecc71;
+  background-color: #00aced;
+  border-color: #00aced;
 }
 
 p.sharecolour {
@@ -16473,7 +16474,7 @@ p.sharecolour {
 }
 
 footer.footer a {
-  color: #2ecc71;
+  color: #00aced;
 }
 
 .carousel-excerpt .fontlight,
@@ -16549,16 +16550,16 @@ h6 {
 }
 
 .navbar-light .navbar-brand:hover {
-  color: #2ecc71;
+  color: #00aced;
 }
 
 .customarea .btn.follow {
-  border-color: #2ecc71;
-  color: #2ecc71;
+  border-color: #00aced;
+  color: #00aced;
 }
 
 .search-form .search-submit {
-  background-color: #2ecc71;
+  background-color: #00aced;
 }
 
 .search-form .search-field {
