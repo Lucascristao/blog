@@ -13425,7 +13425,7 @@ ol.children {
 span.post-name,
 span.post-date,
 span.author-meta {
-  display: inline-block;
+  display: none;
 }
 
 span.post-date,
@@ -14719,7 +14719,7 @@ h6 {
 }
 
 .navbar-toggleable-md .navbar-collapse {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: roboto slab !important;
   font-weight: 400;
 }
 
