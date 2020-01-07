@@ -3065,6 +3065,13 @@ body {
   margin: 0
 }
 
+aside {
+    clear: both;
+    margin: 30px auto;
+    text-align: center;
+    padding: 7px;
+}
+
 article,
 footer,
 aside,
