@@ -3068,7 +3068,8 @@ aside {
 clear: both;
     margin: 30px auto;
     text-align: center;
-    padding: 7px; }
+    padding: 7px;
+display: block }
 
 article,
 footer,
