@@ -3068,11 +3068,11 @@ aside {
 clear: both;
     margin: 30px auto;
     text-align: center;
-    padding: 7px;
-display: block }
+}
 
 article,
 footer,
+aside,
 header,
 nav,
 section {
